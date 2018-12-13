@@ -7,15 +7,40 @@ table {
     border-color:  #1A1D1A;
     border-style: double;
 }
+tr {
+    border-color: #1A1D1A;
+    border-style: double; 
+}
+td {
+    border-color: #1A1D1A;
+    border-style: double;
+    align-items: center;
+    width: 20%
+}
+th {
+    border-color: #1A1D1A;
+    border-style: double;
+    align-items: center;
+    width: 20%
+}
+a:link {
+    color: #1A1D1A;
+    text-decoration: none;
+    background-color: 
+  }
+  a:visited {
+    color: #26413c;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1A1D1A;
+    text-decoration: none;
+  }
+  a:active {
+    color: #1A1D1A;
+    text-decoration: none;
+  }
 
-
-
-
-
-
-
-
-#1A1D1A #Eerie Black
 
 #7CAE7A #Iguana Green
 
