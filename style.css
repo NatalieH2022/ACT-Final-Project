@@ -15,33 +15,38 @@ td {
     border-color: #1A1D1A;
     border-style: double;
     align-items: center;
-    width: 20%
+    width: 20%;
+    height: 20%;
 }
 th {
     border-color: #1A1D1A;
     border-style: double;
     align-items: center;
-    width: 20%
+    width: 20%;
+    height: 20%;
 }
 a:link {
-    color: #1A1D1A;
+    color: #7CAE7A;
     text-decoration: none;
-    background-color: 
+    align-content: center 
   }
   a:visited {
-    color: #26413c;
+    color: #7CAE7A;
     text-decoration: none;
+    align-content: center
   }
   a:hover {
-    color: #1A1D1A;
+    color: #7CAE7A;
     text-decoration: none;
+    align-content: center
   }
   a:active {
-    color: #1A1D1A;
+    color: #7CAE7A;
     text-decoration: none;
+    align-content: center
   }
 
 
 #7CAE7A #Iguana Green
 
-#0F6D35 #La Salle Green
+#0F6D35 #La #Salle #Green
