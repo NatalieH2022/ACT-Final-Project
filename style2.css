@@ -1,6 +1,12 @@
 body {
     background-color: #26413c;
-    color: #1A7F69    
+    color: #1A7F69;
+    align-content: center 
+}
+p{
+    color: #7CAE7A;
+    text-align: center;
+    font-size: 55px
 }
 
 table {
@@ -15,15 +21,17 @@ td {
     border-color: #1A1D1A;
     border-style: double;
     align-items: center;
-    width: 20%;
-    height: 20%;
+    padding: 40px;
+    font-size: 30px;
+    text-align: center
 }
 th {
     border-color: #1A1D1A;
     border-style: double;
     align-items: center;
     width: 20%;
-    height: 20%;
+    padding: 10px;
+    font-size: 20px
 }
 a:link {
     color: #7CAE7A;
@@ -35,18 +43,8 @@ a:link {
     text-decoration: none;
     align-content: center
   }
-  a:hover {
+a:active {
     color: #7CAE7A;
     text-decoration: none;
     align-content: center
   }
-  a:active {
-    color: #7CAE7A;
-    text-decoration: none;
-    align-content: center
-  }
-
-
-#7CAE7A #Iguana Green
-
-#0F6D35 #La #Salle #Green
